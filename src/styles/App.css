@@ -6,8 +6,8 @@
   body {
     font-family: "Segoe UI", sans-serif;
     line-height: 1.4;
-    color: #000;
-    background: #fff;
+    color: #111111;
+    background: rgba(234, 214, 228, 0.8);
     height: 100vh;
     font-weight: 400;
   }
